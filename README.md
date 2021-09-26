@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Prisma + Nest.js の公式チュートリアル(https://docs.nestjs.com/recipes/prisma)
 
 ## Installation
 
